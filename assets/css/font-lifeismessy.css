@@ -1,0 +1,15 @@
+/*!
+ *  Font KG Life is Messy by Kimberly Geswein - http://kimberlygeswein.com
+ */
+
+@font-face {
+    font-family: 'KG Life is Messy';
+    src: url('../fonts/KGLifeisMessy.eot');
+    src: url('../fonts/KGLifeisMessy.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/KGLifeisMessy.woff2') format('woff2'),
+        url('../fonts/KGLifeisMessy.woff') format('woff'),
+        url('../fonts/KGLifeisMessy.ttf') format('truetype'),
+        url('../fonts/KGLifeisMessy.svg#KGLifeisMessy') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
