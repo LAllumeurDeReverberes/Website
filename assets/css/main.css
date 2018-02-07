@@ -1,5 +1,6 @@
 @import url(font-awesome.min.css);
 @import url(font-lifeismessy.css);
+@import url(lightbox.css);
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600,600italic,800,800italic");
 
 /*
@@ -1923,7 +1924,7 @@
 			}
 
 		.icon.style1 {
-			color: #00ffcc;
+			color: #ed4933;
 		}
 
 		.icon.style2 {
@@ -2429,7 +2430,7 @@
 
 			.features li:before {
 				display: block;
-				color: #00ffcc;
+				color: #ed4933;
 				position: absolute;
 				left: 1.75em;
 				top: 2.75em;
